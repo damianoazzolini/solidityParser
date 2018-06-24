@@ -1,0 +1,1 @@
+% define both elementaryTypeName(A) and elementaryTypeName --> ['...'].
